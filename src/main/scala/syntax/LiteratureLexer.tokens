@@ -1,0 +1,14 @@
+T__0=1
+T__1=2
+MULTIPLY=3
+DIVIDE=4
+ADD=5
+SUBTRACT=6
+NUMBER=7
+WS=8
+'('=1
+')'=2
+'*'=3
+'/'=4
+'+'=5
+'-'=6
